@@ -42,7 +42,7 @@ TCP, port 5000. TCP is used because it is reliable and ordered, so no record is 
 
 ## Screenshots
 
-![Client disconnected, server still running]
-![Wrong IP/port gives an error]
-![Messages and temperature data]
-![Token check]
+[Client disconnected, server still running]
+[Wrong IP/port gives an error]
+[Messages and temperature data]
+[Token check]
